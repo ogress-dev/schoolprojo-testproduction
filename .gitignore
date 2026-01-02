@@ -1,0 +1,10 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# ML artifacts (already handled by LFS)
+*.pkl
+
+# Database
+*.db
